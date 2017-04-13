@@ -226,6 +226,7 @@ Please note we have a [code of conduct](CONTRIBUTING.md), please follow it in al
 
 ## Release History
 
+* 0.1.1 republish
 * 0.1.0 Initial release
 
 ## Maintainers

@@ -1,6 +1,6 @@
 {
   "name": "iot-gateway-batch-nodejs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "NodeJS Batch Module for Azure IoT Gateway",
   "main": "js/batch.js",
   "scripts": {
@@ -17,6 +17,9 @@
     "nodejs"
   ],
   "author": "William R. Berry (http://williamberryiii.com/)",
+  "contributors": [
+    @williamberryiii
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Azure/iot-gateway-batch-nodejs/issues"
